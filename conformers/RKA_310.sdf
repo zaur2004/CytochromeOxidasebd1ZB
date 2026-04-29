@@ -67,6 +67,12 @@ COc4ccc3c(=O)c(C)c(c2ccc(N1CCCCC1)cc2)[nH]c3c4
 >  <EnergyUnits>  (1) 
 RDKit_forcefield
 
+>  <Processing_Time>  (1) 
+81.0s
+
+>  <Original_Conformers>  (1) 
+500
+
 >  <Total_Conformers>  (1) 
 10
 
@@ -151,6 +157,12 @@ COc4ccc3c(=O)c(C)c(c2ccc(N1CCCCC1)cc2)[nH]c3c4
 
 >  <EnergyUnits>  (2) 
 RDKit_forcefield
+
+>  <Processing_Time>  (2) 
+81.0s
+
+>  <Original_Conformers>  (2) 
+500
 
 >  <Total_Conformers>  (2) 
 10
@@ -237,6 +249,12 @@ COc4ccc3c(=O)c(C)c(c2ccc(N1CCCCC1)cc2)[nH]c3c4
 >  <EnergyUnits>  (3) 
 RDKit_forcefield
 
+>  <Processing_Time>  (3) 
+81.0s
+
+>  <Original_Conformers>  (3) 
+500
+
 >  <Total_Conformers>  (3) 
 10
 
@@ -321,6 +339,12 @@ COc4ccc3c(=O)c(C)c(c2ccc(N1CCCCC1)cc2)[nH]c3c4
 
 >  <EnergyUnits>  (4) 
 RDKit_forcefield
+
+>  <Processing_Time>  (4) 
+81.0s
+
+>  <Original_Conformers>  (4) 
+500
 
 >  <Total_Conformers>  (4) 
 10
@@ -407,6 +431,12 @@ COc4ccc3c(=O)c(C)c(c2ccc(N1CCCCC1)cc2)[nH]c3c4
 >  <EnergyUnits>  (5) 
 RDKit_forcefield
 
+>  <Processing_Time>  (5) 
+81.0s
+
+>  <Original_Conformers>  (5) 
+500
+
 >  <Total_Conformers>  (5) 
 10
 
@@ -491,6 +521,12 @@ COc4ccc3c(=O)c(C)c(c2ccc(N1CCCCC1)cc2)[nH]c3c4
 
 >  <EnergyUnits>  (6) 
 RDKit_forcefield
+
+>  <Processing_Time>  (6) 
+81.0s
+
+>  <Original_Conformers>  (6) 
+500
 
 >  <Total_Conformers>  (6) 
 10
@@ -577,6 +613,12 @@ COc4ccc3c(=O)c(C)c(c2ccc(N1CCCCC1)cc2)[nH]c3c4
 >  <EnergyUnits>  (7) 
 RDKit_forcefield
 
+>  <Processing_Time>  (7) 
+81.0s
+
+>  <Original_Conformers>  (7) 
+500
+
 >  <Total_Conformers>  (7) 
 10
 
@@ -661,6 +703,12 @@ COc4ccc3c(=O)c(C)c(c2ccc(N1CCCCC1)cc2)[nH]c3c4
 
 >  <EnergyUnits>  (8) 
 RDKit_forcefield
+
+>  <Processing_Time>  (8) 
+81.0s
+
+>  <Original_Conformers>  (8) 
+500
 
 >  <Total_Conformers>  (8) 
 10
@@ -747,6 +795,12 @@ COc4ccc3c(=O)c(C)c(c2ccc(N1CCCCC1)cc2)[nH]c3c4
 >  <EnergyUnits>  (9) 
 RDKit_forcefield
 
+>  <Processing_Time>  (9) 
+81.0s
+
+>  <Original_Conformers>  (9) 
+500
+
 >  <Total_Conformers>  (9) 
 10
 
@@ -831,6 +885,12 @@ COc4ccc3c(=O)c(C)c(c2ccc(N1CCCCC1)cc2)[nH]c3c4
 
 >  <EnergyUnits>  (10) 
 RDKit_forcefield
+
+>  <Processing_Time>  (10) 
+81.0s
+
+>  <Original_Conformers>  (10) 
+500
 
 >  <Total_Conformers>  (10) 
 10

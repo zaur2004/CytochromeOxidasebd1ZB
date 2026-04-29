@@ -77,6 +77,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (1) 
 RDKit_forcefield
 
+>  <Processing_Time>  (1) 
+90.2s
+
+>  <Original_Conformers>  (1) 
+500
+
 >  <Total_Conformers>  (1) 
 34
 
@@ -171,6 +177,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (2) 
 RDKit_forcefield
+
+>  <Processing_Time>  (2) 
+90.2s
+
+>  <Original_Conformers>  (2) 
+500
 
 >  <Total_Conformers>  (2) 
 34
@@ -267,6 +279,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (3) 
 RDKit_forcefield
 
+>  <Processing_Time>  (3) 
+90.2s
+
+>  <Original_Conformers>  (3) 
+500
+
 >  <Total_Conformers>  (3) 
 34
 
@@ -361,6 +379,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (4) 
 RDKit_forcefield
+
+>  <Processing_Time>  (4) 
+90.2s
+
+>  <Original_Conformers>  (4) 
+500
 
 >  <Total_Conformers>  (4) 
 34
@@ -457,6 +481,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (5) 
 RDKit_forcefield
 
+>  <Processing_Time>  (5) 
+90.2s
+
+>  <Original_Conformers>  (5) 
+500
+
 >  <Total_Conformers>  (5) 
 34
 
@@ -551,6 +581,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (6) 
 RDKit_forcefield
+
+>  <Processing_Time>  (6) 
+90.2s
+
+>  <Original_Conformers>  (6) 
+500
 
 >  <Total_Conformers>  (6) 
 34
@@ -647,6 +683,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (7) 
 RDKit_forcefield
 
+>  <Processing_Time>  (7) 
+90.2s
+
+>  <Original_Conformers>  (7) 
+500
+
 >  <Total_Conformers>  (7) 
 34
 
@@ -741,6 +783,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (8) 
 RDKit_forcefield
+
+>  <Processing_Time>  (8) 
+90.2s
+
+>  <Original_Conformers>  (8) 
+500
 
 >  <Total_Conformers>  (8) 
 34
@@ -837,6 +885,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (9) 
 RDKit_forcefield
 
+>  <Processing_Time>  (9) 
+90.2s
+
+>  <Original_Conformers>  (9) 
+500
+
 >  <Total_Conformers>  (9) 
 34
 
@@ -931,6 +985,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (10) 
 RDKit_forcefield
+
+>  <Processing_Time>  (10) 
+90.2s
+
+>  <Original_Conformers>  (10) 
+500
 
 >  <Total_Conformers>  (10) 
 34
@@ -1027,6 +1087,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (11) 
 RDKit_forcefield
 
+>  <Processing_Time>  (11) 
+90.2s
+
+>  <Original_Conformers>  (11) 
+500
+
 >  <Total_Conformers>  (11) 
 34
 
@@ -1121,6 +1187,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (12) 
 RDKit_forcefield
+
+>  <Processing_Time>  (12) 
+90.2s
+
+>  <Original_Conformers>  (12) 
+500
 
 >  <Total_Conformers>  (12) 
 34
@@ -1217,6 +1289,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (13) 
 RDKit_forcefield
 
+>  <Processing_Time>  (13) 
+90.2s
+
+>  <Original_Conformers>  (13) 
+500
+
 >  <Total_Conformers>  (13) 
 34
 
@@ -1311,6 +1389,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (14) 
 RDKit_forcefield
+
+>  <Processing_Time>  (14) 
+90.2s
+
+>  <Original_Conformers>  (14) 
+500
 
 >  <Total_Conformers>  (14) 
 34
@@ -1407,6 +1491,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (15) 
 RDKit_forcefield
 
+>  <Processing_Time>  (15) 
+90.2s
+
+>  <Original_Conformers>  (15) 
+500
+
 >  <Total_Conformers>  (15) 
 34
 
@@ -1501,6 +1591,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (16) 
 RDKit_forcefield
+
+>  <Processing_Time>  (16) 
+90.2s
+
+>  <Original_Conformers>  (16) 
+500
 
 >  <Total_Conformers>  (16) 
 34
@@ -1597,6 +1693,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (17) 
 RDKit_forcefield
 
+>  <Processing_Time>  (17) 
+90.2s
+
+>  <Original_Conformers>  (17) 
+500
+
 >  <Total_Conformers>  (17) 
 34
 
@@ -1691,6 +1793,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (18) 
 RDKit_forcefield
+
+>  <Processing_Time>  (18) 
+90.2s
+
+>  <Original_Conformers>  (18) 
+500
 
 >  <Total_Conformers>  (18) 
 34
@@ -1787,6 +1895,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (19) 
 RDKit_forcefield
 
+>  <Processing_Time>  (19) 
+90.2s
+
+>  <Original_Conformers>  (19) 
+500
+
 >  <Total_Conformers>  (19) 
 34
 
@@ -1881,6 +1995,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (20) 
 RDKit_forcefield
+
+>  <Processing_Time>  (20) 
+90.2s
+
+>  <Original_Conformers>  (20) 
+500
 
 >  <Total_Conformers>  (20) 
 34
@@ -1977,6 +2097,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (21) 
 RDKit_forcefield
 
+>  <Processing_Time>  (21) 
+90.2s
+
+>  <Original_Conformers>  (21) 
+500
+
 >  <Total_Conformers>  (21) 
 34
 
@@ -2071,6 +2197,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (22) 
 RDKit_forcefield
+
+>  <Processing_Time>  (22) 
+90.2s
+
+>  <Original_Conformers>  (22) 
+500
 
 >  <Total_Conformers>  (22) 
 34
@@ -2167,6 +2299,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (23) 
 RDKit_forcefield
 
+>  <Processing_Time>  (23) 
+90.2s
+
+>  <Original_Conformers>  (23) 
+500
+
 >  <Total_Conformers>  (23) 
 34
 
@@ -2261,6 +2399,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (24) 
 RDKit_forcefield
+
+>  <Processing_Time>  (24) 
+90.2s
+
+>  <Original_Conformers>  (24) 
+500
 
 >  <Total_Conformers>  (24) 
 34
@@ -2357,6 +2501,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (25) 
 RDKit_forcefield
 
+>  <Processing_Time>  (25) 
+90.2s
+
+>  <Original_Conformers>  (25) 
+500
+
 >  <Total_Conformers>  (25) 
 34
 
@@ -2451,6 +2601,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (26) 
 RDKit_forcefield
+
+>  <Processing_Time>  (26) 
+90.2s
+
+>  <Original_Conformers>  (26) 
+500
 
 >  <Total_Conformers>  (26) 
 34
@@ -2547,6 +2703,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (27) 
 RDKit_forcefield
 
+>  <Processing_Time>  (27) 
+90.2s
+
+>  <Original_Conformers>  (27) 
+500
+
 >  <Total_Conformers>  (27) 
 34
 
@@ -2641,6 +2803,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (28) 
 RDKit_forcefield
+
+>  <Processing_Time>  (28) 
+90.2s
+
+>  <Original_Conformers>  (28) 
+500
 
 >  <Total_Conformers>  (28) 
 34
@@ -2737,6 +2905,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (29) 
 RDKit_forcefield
 
+>  <Processing_Time>  (29) 
+90.2s
+
+>  <Original_Conformers>  (29) 
+500
+
 >  <Total_Conformers>  (29) 
 34
 
@@ -2831,6 +3005,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (30) 
 RDKit_forcefield
+
+>  <Processing_Time>  (30) 
+90.2s
+
+>  <Original_Conformers>  (30) 
+500
 
 >  <Total_Conformers>  (30) 
 34
@@ -2927,6 +3107,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (31) 
 RDKit_forcefield
 
+>  <Processing_Time>  (31) 
+90.2s
+
+>  <Original_Conformers>  (31) 
+500
+
 >  <Total_Conformers>  (31) 
 34
 
@@ -3021,6 +3207,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (32) 
 RDKit_forcefield
+
+>  <Processing_Time>  (32) 
+90.2s
+
+>  <Original_Conformers>  (32) 
+500
 
 >  <Total_Conformers>  (32) 
 34
@@ -3117,6 +3309,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (33) 
 RDKit_forcefield
 
+>  <Processing_Time>  (33) 
+90.2s
+
+>  <Original_Conformers>  (33) 
+500
+
 >  <Total_Conformers>  (33) 
 34
 
@@ -3211,6 +3409,12 @@ CC(C)c4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (34) 
 RDKit_forcefield
+
+>  <Processing_Time>  (34) 
+90.2s
+
+>  <Original_Conformers>  (34) 
+500
 
 >  <Total_Conformers>  (34) 
 34

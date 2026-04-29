@@ -67,6 +67,12 @@ COc3c(C)c(c2ccc(Cc1ccccc1)cc2)nc4ccccc34
 >  <EnergyUnits>  (1) 
 RDKit_forcefield
 
+>  <Processing_Time>  (1) 
+30.9s
+
+>  <Original_Conformers>  (1) 
+500
+
 >  <Total_Conformers>  (1) 
 8
 
@@ -151,6 +157,12 @@ COc3c(C)c(c2ccc(Cc1ccccc1)cc2)nc4ccccc34
 
 >  <EnergyUnits>  (2) 
 RDKit_forcefield
+
+>  <Processing_Time>  (2) 
+30.9s
+
+>  <Original_Conformers>  (2) 
+500
 
 >  <Total_Conformers>  (2) 
 8
@@ -237,6 +249,12 @@ COc3c(C)c(c2ccc(Cc1ccccc1)cc2)nc4ccccc34
 >  <EnergyUnits>  (3) 
 RDKit_forcefield
 
+>  <Processing_Time>  (3) 
+30.9s
+
+>  <Original_Conformers>  (3) 
+500
+
 >  <Total_Conformers>  (3) 
 8
 
@@ -321,6 +339,12 @@ COc3c(C)c(c2ccc(Cc1ccccc1)cc2)nc4ccccc34
 
 >  <EnergyUnits>  (4) 
 RDKit_forcefield
+
+>  <Processing_Time>  (4) 
+30.9s
+
+>  <Original_Conformers>  (4) 
+500
 
 >  <Total_Conformers>  (4) 
 8
@@ -407,6 +431,12 @@ COc3c(C)c(c2ccc(Cc1ccccc1)cc2)nc4ccccc34
 >  <EnergyUnits>  (5) 
 RDKit_forcefield
 
+>  <Processing_Time>  (5) 
+30.9s
+
+>  <Original_Conformers>  (5) 
+500
+
 >  <Total_Conformers>  (5) 
 8
 
@@ -491,6 +521,12 @@ COc3c(C)c(c2ccc(Cc1ccccc1)cc2)nc4ccccc34
 
 >  <EnergyUnits>  (6) 
 RDKit_forcefield
+
+>  <Processing_Time>  (6) 
+30.9s
+
+>  <Original_Conformers>  (6) 
+500
 
 >  <Total_Conformers>  (6) 
 8
@@ -577,6 +613,12 @@ COc3c(C)c(c2ccc(Cc1ccccc1)cc2)nc4ccccc34
 >  <EnergyUnits>  (7) 
 RDKit_forcefield
 
+>  <Processing_Time>  (7) 
+30.9s
+
+>  <Original_Conformers>  (7) 
+500
+
 >  <Total_Conformers>  (7) 
 8
 
@@ -661,6 +703,12 @@ COc3c(C)c(c2ccc(Cc1ccccc1)cc2)nc4ccccc34
 
 >  <EnergyUnits>  (8) 
 RDKit_forcefield
+
+>  <Processing_Time>  (8) 
+30.9s
+
+>  <Original_Conformers>  (8) 
+500
 
 >  <Total_Conformers>  (8) 
 8

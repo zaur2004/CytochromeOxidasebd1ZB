@@ -65,6 +65,12 @@ O=c3cc(c2ccc(Cc1ccc(F)cc1)cc2)[nH]c4ccccc34
 >  <EnergyUnits>  (1) 
 RDKit_forcefield
 
+>  <Processing_Time>  (1) 
+21.0s
+
+>  <Original_Conformers>  (1) 
+500
+
 >  <Total_Conformers>  (1) 
 4
 
@@ -147,6 +153,12 @@ O=c3cc(c2ccc(Cc1ccc(F)cc1)cc2)[nH]c4ccccc34
 
 >  <EnergyUnits>  (2) 
 RDKit_forcefield
+
+>  <Processing_Time>  (2) 
+21.0s
+
+>  <Original_Conformers>  (2) 
+500
 
 >  <Total_Conformers>  (2) 
 4
@@ -231,6 +243,12 @@ O=c3cc(c2ccc(Cc1ccc(F)cc1)cc2)[nH]c4ccccc34
 >  <EnergyUnits>  (3) 
 RDKit_forcefield
 
+>  <Processing_Time>  (3) 
+21.0s
+
+>  <Original_Conformers>  (3) 
+500
+
 >  <Total_Conformers>  (3) 
 4
 
@@ -313,6 +331,12 @@ O=c3cc(c2ccc(Cc1ccc(F)cc1)cc2)[nH]c4ccccc34
 
 >  <EnergyUnits>  (4) 
 RDKit_forcefield
+
+>  <Processing_Time>  (4) 
+21.0s
+
+>  <Original_Conformers>  (4) 
+500
 
 >  <Total_Conformers>  (4) 
 4

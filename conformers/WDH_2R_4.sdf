@@ -73,6 +73,12 @@ Cc4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (1) 
 RDKit_forcefield
 
+>  <Processing_Time>  (1) 
+31.2s
+
+>  <Original_Conformers>  (1) 
+500
+
 >  <Total_Conformers>  (1) 
 15
 
@@ -163,6 +169,12 @@ Cc4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (2) 
 RDKit_forcefield
+
+>  <Processing_Time>  (2) 
+31.2s
+
+>  <Original_Conformers>  (2) 
+500
 
 >  <Total_Conformers>  (2) 
 15
@@ -255,6 +267,12 @@ Cc4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (3) 
 RDKit_forcefield
 
+>  <Processing_Time>  (3) 
+31.2s
+
+>  <Original_Conformers>  (3) 
+500
+
 >  <Total_Conformers>  (3) 
 15
 
@@ -345,6 +363,12 @@ Cc4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (4) 
 RDKit_forcefield
+
+>  <Processing_Time>  (4) 
+31.2s
+
+>  <Original_Conformers>  (4) 
+500
 
 >  <Total_Conformers>  (4) 
 15
@@ -437,6 +461,12 @@ Cc4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (5) 
 RDKit_forcefield
 
+>  <Processing_Time>  (5) 
+31.2s
+
+>  <Original_Conformers>  (5) 
+500
+
 >  <Total_Conformers>  (5) 
 15
 
@@ -527,6 +557,12 @@ Cc4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (6) 
 RDKit_forcefield
+
+>  <Processing_Time>  (6) 
+31.2s
+
+>  <Original_Conformers>  (6) 
+500
 
 >  <Total_Conformers>  (6) 
 15
@@ -619,6 +655,12 @@ Cc4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (7) 
 RDKit_forcefield
 
+>  <Processing_Time>  (7) 
+31.2s
+
+>  <Original_Conformers>  (7) 
+500
+
 >  <Total_Conformers>  (7) 
 15
 
@@ -709,6 +751,12 @@ Cc4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (8) 
 RDKit_forcefield
+
+>  <Processing_Time>  (8) 
+31.2s
+
+>  <Original_Conformers>  (8) 
+500
 
 >  <Total_Conformers>  (8) 
 15
@@ -801,6 +849,12 @@ Cc4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (9) 
 RDKit_forcefield
 
+>  <Processing_Time>  (9) 
+31.2s
+
+>  <Original_Conformers>  (9) 
+500
+
 >  <Total_Conformers>  (9) 
 15
 
@@ -891,6 +945,12 @@ Cc4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (10) 
 RDKit_forcefield
+
+>  <Processing_Time>  (10) 
+31.2s
+
+>  <Original_Conformers>  (10) 
+500
 
 >  <Total_Conformers>  (10) 
 15
@@ -983,6 +1043,12 @@ Cc4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (11) 
 RDKit_forcefield
 
+>  <Processing_Time>  (11) 
+31.2s
+
+>  <Original_Conformers>  (11) 
+500
+
 >  <Total_Conformers>  (11) 
 15
 
@@ -1073,6 +1139,12 @@ Cc4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (12) 
 RDKit_forcefield
+
+>  <Processing_Time>  (12) 
+31.2s
+
+>  <Original_Conformers>  (12) 
+500
 
 >  <Total_Conformers>  (12) 
 15
@@ -1165,6 +1237,12 @@ Cc4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (13) 
 RDKit_forcefield
 
+>  <Processing_Time>  (13) 
+31.2s
+
+>  <Original_Conformers>  (13) 
+500
+
 >  <Total_Conformers>  (13) 
 15
 
@@ -1256,6 +1334,12 @@ Cc4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 >  <EnergyUnits>  (14) 
 RDKit_forcefield
 
+>  <Processing_Time>  (14) 
+31.2s
+
+>  <Original_Conformers>  (14) 
+500
+
 >  <Total_Conformers>  (14) 
 15
 
@@ -1346,6 +1430,12 @@ Cc4c(c2cnn(Cc1ccc(OC(F)(F)F)cc1)c2)[nH]c3ccccc3c4=O
 
 >  <EnergyUnits>  (15) 
 RDKit_forcefield
+
+>  <Processing_Time>  (15) 
+31.2s
+
+>  <Original_Conformers>  (15) 
+500
 
 >  <Total_Conformers>  (15) 
 15
