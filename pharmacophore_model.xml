@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pharmacophore name="pharmacophore_model" template="CK_2_63.sdf" numPoints="21" generated_by="pharmacophore_pipeline_mtb" training_molecules="9" training_ic50_range="0.0030-0.290">
+  <point id="1" family="Acceptor" x="3.9693" y="-1.7630" z="0.1131" radius="4.097" count="82" weight="1.000" />
+  <point id="2" family="Acceptor" x="-6.8425" y="-0.6414" z="0.2081" radius="2.700" count="55" weight="1.000" />
+  <point id="3" family="Hydrophobe" x="-2.8212" y="2.3547" z="-0.9837" radius="2.216" count="23" weight="1.000" />
+  <point id="4" family="Acceptor" x="-2.7036" y="1.7245" z="-0.8173" radius="1.933" count="19" weight="1.000" />
+  <point id="5" family="Acceptor" x="2.8844" y="2.3149" z="-0.3722" radius="2.919" count="13" weight="1.000" />
+  <point id="6" family="Acceptor" x="-6.5765" y="3.6169" z="-1.7178" radius="0.800" count="5" weight="0.500" />
+  <point id="7" family="Acceptor" x="1.3824" y="-2.2772" z="2.5425" radius="1.092" count="4" weight="0.400" />
+  <point id="8" family="Acceptor" x="-2.8625" y="-1.6401" z="-0.2924" radius="1.057" count="3" weight="0.300" />
+  <point id="9" family="Acceptor" x="4.2074" y="3.6319" z="-0.2622" radius="0.800" count="2" weight="0.200" />
+  <point id="10" family="Acceptor" x="4.2236" y="0.9424" z="-3.4456" radius="0.800" count="2" weight="0.200" />
+  <point id="11" family="Acceptor" x="3.7180" y="1.4752" z="3.6700" radius="0.800" count="2" weight="0.200" />
+  <point id="12" family="Acceptor" x="2.5700" y="0.1622" z="-3.4755" radius="0.800" count="2" weight="0.200" />
+  <point id="13" family="Acceptor" x="3.7624" y="-1.8086" z="-3.3743" radius="0.800" count="2" weight="0.200" />
+  <point id="14" family="Acceptor" x="-2.7819" y="-0.7389" z="1.7234" radius="0.800" count="1" weight="0.100" />
+  <point id="15" family="Acceptor" x="2.0625" y="0.3989" z="1.8063" radius="0.800" count="1" weight="0.100" />
+  <point id="16" family="Acceptor" x="2.1349" y="-1.6123" z="-0.0712" radius="0.800" count="1" weight="0.100" />
+  <point id="17" family="Hydrophobe" x="-3.4219" y="-0.3420" z="0.2539" radius="0.800" count="1" weight="0.100" />
+  <point id="18" family="Hydrophobe" x="-4.6652" y="1.9075" z="-2.3696" radius="0.800" count="1" weight="0.100" />
+  <point id="19" family="Hydrophobe" x="-5.1534" y="3.2518" z="-1.8189" radius="0.800" count="1" weight="0.100" />
+  <point id="20" family="Hydrophobe" x="-3.9686" y="4.1422" z="-1.4283" radius="0.800" count="1" weight="0.100" />
+  <point id="21" family="PosIonizable" x="-2.6855" y="2.1031" z="-0.9220" radius="0.800" count="1" weight="0.100" />
+</pharmacophore>
