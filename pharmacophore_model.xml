@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<pharmacophore name="Mtb_Q-Loop" created="2026-04-30 01:58:32" n_features="4">
+  <feature id="1" family="Donor">
+    <center x="3.6255" y="0.9676" z="0.1043"/>
+    <sphere radius="1.0000"/>
+    <coverage value="0.6500" rule="hard"/>
+  </feature>
+  <feature id="2" family="Acceptor">
+    <center x="4.4323" y="-2.9829" z="0.3111"/>
+    <sphere radius="1.0000"/>
+    <coverage value="0.7500" rule="hard"/>
+  </feature>
+  <feature id="3" family="Acceptor">
+    <center x="-2.7633" y="1.8774" z="-0.8689"/>
+    <sphere radius="1.0000"/>
+    <coverage value="0.5000" rule="hard"/>
+  </feature>
+  <feature id="4" family="Hydrophobe">
+    <center x="2.2626" y="0.4021" z="-0.0696"/>
+    <sphere radius="2.5000"/>
+    <coverage value="1.0000" rule="hard"/>
+  </feature>
+</pharmacophore>
