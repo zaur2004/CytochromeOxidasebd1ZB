@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<pharmacophore name="Mtb_Q-Loop" created="2026-05-01 02:40:28" n_features="4">
+<pharmacophore name="Mtb_Q-Loop" created="2026-05-06 04:00:57" n_features="4">
   <feature id="1" family="Donor">
     <center x="3.6255" y="0.9676" z="0.1043"/>
     <sphere radius="1.0000"/>
